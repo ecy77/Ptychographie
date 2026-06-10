@@ -1,0 +1,11 @@
+{
+  "expo": "100000",
+  "espacement": "1",
+  "NA": "0.10",
+  "Mag": "4",
+  "lambda_um": "0.532",
+  "h_mm": "87.5",
+  "D_LED_mm": "2.5",
+  "pixel_um": "6.5",
+  "dossier": "Images"
+}
